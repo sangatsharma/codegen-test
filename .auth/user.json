@@ -1,0 +1,55 @@
+{
+  "cookies": [
+    {
+      "name": "NEXT_LOCALE",
+      "value": "en",
+      "domain": "web.restroxapp.com",
+      "path": "/",
+      "expires": 1766387231.04989,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "restroxtoken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI5ZDllYmVlYS1kZjM1LTQ2NWItODllOC0zYmFhMjY2NDIyNDMiLCJzZXNzaW9uSWQiOiJhYzZmZTM0NS05YTVlLTQ4OTQtYWM1MS1jMWI5MzkxOGU0YjEiLCJ0eXBlIjoic3RhZmYiLCJzdGFmZklkIjoiZmQ3NjFkZTUtMmY3MS00M2VmLTkwNWUtMjNjMDI2ZTNkNjY3IiwicGVybWlzc2lvbnMiOlt7InJlc291cmNlIjoiR2VuZXJhbCIsImFjdGlvbiI6WyJWSUVXIl19LHsicmVzb3VyY2UiOiJEYXNoYm9hcmQiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6Ik9yZGVyIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJPcmRlciBDaGVja291dCIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiVGFibGUgYW5kIFNwYWNlIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJXZWJzaXRlIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJTdGFmZiIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiQ3VzdG9tZXIiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IlN1cHBsaWVycyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiTWVudSIsImFjdGlvbiI6WyJWSUVXIl19LHsicmVzb3VyY2UiOiJEaXNoZXMiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6Ik1lbnUgU2V0IiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJTdWIgTWVudSIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiQ2F0ZWdvcnkiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IkFkZG9ucyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiU2VydmljZXMiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IkludmVudG9yeSIsImFjdGlvbiI6WyJWSUVXIl19LHsicmVzb3VyY2UiOiJTdG9ja2l0ZW1zIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJQdXJjaGFzZSIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiUmVwb3J0cyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiSW52ZW50b3J5IFN1cHBsaWVycyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiRmluYW5jZSIsImFjdGlvbiI6WyJWSUVXIl19LHsicmVzb3VyY2UiOiJEYXlib29rIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJUcmFuc2FjdGlvbiIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiSW5jb21lIGFuZCBFeHBlbnNlcyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiUHVyY2hhc2UgYW5kIFNhbGVzIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJDYXNoIGFuZCBCYW5rcyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiRmluYW5jZSBSZXBvcnRzIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJTZXR0aW5ncyIsImFjdGlvbiI6WyJWSUVXIl19LHsicmVzb3VyY2UiOiJBY2NvdW50IERldGFpbHMiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6Ikludm9pY2UgU2V0dGluZ3MiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IlRheCBTZXR0aW5ncyIsImFjdGlvbiI6WyJWSUVXIiwiRURJVCJdfSx7InJlc291cmNlIjoiRGVwYXJ0bWVudHMiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IlVzZXIgUm9sZXMiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IlByaW50ZXIgU2V0dXAiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX0seyJyZXNvdXJjZSI6IktvdCBUeXBlIiwiYWN0aW9uIjpbIlZJRVciLCJFRElUIl19LHsicmVzb3VyY2UiOiJSZXN0YXVyYW50IENvbnRyb2wiLCJhY3Rpb24iOlsiVklFVyIsIkVESVQiXX1dLCJyZXN0YXVyYW50SWQiOiJkYjQ3ZmQ2OS1lYTg3LTRjZDItODIxYi03YWE4YjJhMTk4MzciLCJwbGFuIjoiUHJlbWl1bSIsImlhdCI6MTczNDg1NDAzMSwiZXhwIjoxNzM2MTUwMDMxfQ.CzQj0dB841G_BsTZn_mTYOJQxAveo9jmhn9QbtZL-nY",
+      "domain": ".restroxapp.com",
+      "path": "/",
+      "expires": 1736147240.31695,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "__cf_bm",
+      "value": "f4PKnVn4Qtz1VxMoUCUFun.fsqW2tdJVmEPq2Fx3GBc-1734851246-1.0.1.1-oGmttxcxsI.X7ZjgU4d4ksokBw6NsCN1X.cgj7W.SY3i2qwVaeWgXagSQsit0KK.2EfIb8zd_B7Z6TODl7x_kg",
+      "domain": ".onesignal.com",
+      "path": "/",
+      "expires": 1734853041.038257,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "user",
+      "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..6LEvoKwRcDdlTduH.AIZboiNcCwX2b5L_vS0zOpWxzoqVMJJpVx5n85GAMIBYQPKFsVnxVV-QMymbPnlnB4-apNEJYIhIP0RoT7IvyNHxwsPIHxs9zzu9rvsGrdMuE9ZrM2KZ4HOQPej54JOFxHOD-JN6G4jwtdxLYnRxDNYVvs9cUotzRJ80y0MR6WrXZRDDLL7PSUZY0c9RH7mr_xwrD9ys3K7kCjriBBo-WTIfhduYkHQnJQcw3Fu-ml7VmU8VuOZj_vd-JrdE7NunyUskkRc6Qdk4As6RKgzso1iR5QM-1t5Tm4YBLve6G-qG1nEKN1izHBsiq2QIzk36kMj8CPEM1ZmdDMbLFvm585HSoVBCwZNKvd7DujuJDQhGXqUkGbAvxdFmcWxsGhCVhxgDc7mupH3LghrvM2lEMvcwHxoxmeZ1AtFVYeCM3cAdIo5XLzwYE7ykfhCOe8XqVrut4XIrInTcu5mRgKAmRUqx_6VzLFBYVZ-GUrxu63S4u-_Unj2_3-bd3rUuDvji6hjdtKH6nq8E8qKdOfV9xTIrJnNEA3NrWKmi9lbawYZtQoJKoD_a4wZ25y3C6wWhvC2qSOsNOLFI3W4VsoWnEbF_Pzu1rnE71eh1VDsAYo0z0t9xjtXkK2kaVfGPY6o6XTjZtD2ZeuRWRYGE-Ol0MwdvmPQZ88UCPC0PdDT5-DVYbi2jy1oMrQ_Boqv3VmOaW_gaoppYNcQMXGe7M3a3yBBgfmQGj9KpYU4_qB054pUiNoCVpnvIAUdR6jvV8mTTWSA3yMFYK25EqgzJY1uTotF_h4E00i4K5YtfrSHF66z_34Ke1uQM9oeOQri8HWninhPfJLyi-iQSL4Sv002NwZpcVM4zmoY25bWoaL-S7a6jpQO2eQR7Ytj1VWAksomm_e5amqpd3CvFnjtLpzr71FK5nqnQj_3vfIuVfnO8zk49sGyP44w4y5b59o5VWPCzuOevi5-tdhaACn7ePwQSAwCG4eKksn13-gK-UwNjtZllCPUkdXPDMoy2sTD-XgxdM8bSSUwx4Xav2n1qaOG4NW1D11pjZkdRVIazevAUlDnfGY4rEywm9LPVeqbKXyv398rFFVJ6Rz6beVLqnbWxHoyh5pgukI5kP8ed_rMq.M7qmJj3fBPaa1YV4IAc-rg",
+      "domain": "web.restroxapp.com",
+      "path": "/",
+      "expires": 1736147243.778632,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Strict"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://web.restroxapp.com",
+      "localStorage": [
+        {
+          "name": "os_pageViews",
+          "value": "1"
+        }
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import {
 import { defineConfig } from "@openapi-codegen/cli";
 import { Context } from "@openapi-codegen/typescript/lib/generators/types";
 import dotenv from "dotenv";
-dotenv.config({path: "../../.env"});
+dotenv.config({ path: "../../.env" });
 
 console.log(process.env.NEXT_PUBLIC_API_URL);
 console.log(process.env.API_AUTH_TOKEN);
